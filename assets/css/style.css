@@ -1672,6 +1672,7 @@ Google map
 .team-role {
   font-size: 11px;
   color: #aaa;
+  padding-bottom: 20px;
 }
 
 .team-item:hover .team-image:after {
