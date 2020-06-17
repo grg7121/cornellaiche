@@ -2926,3 +2926,17 @@ Google map
     width: 100%;
   }
 }
+
+/* General formatting */
+.two-column-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.contact-text-wrapper h3 {
+  font-size: 28px;
+}
+
+.contact-text-wrapper p {
+  font-size: 16px;
+}
